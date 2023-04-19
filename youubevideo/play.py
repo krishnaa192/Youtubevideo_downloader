@@ -1,6 +1,6 @@
 from pytube import YouTube
-# link="https://www.youtube.com/watch?v=JIoj1RYvz1Y&ab_channel=MarwaLoud"
-link="https://www.youtube.com/watch?v=WcIcVapfqXw&ab_channel=SelenaGomezVEVO"
+
+link=""   #Enter your link here
 ytube=YouTube(link)
 # title
 # print(ytube.title)
